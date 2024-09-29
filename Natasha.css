@@ -56,7 +56,7 @@ table, th, tr, td{
   border-color: cyan;
   float: bottom;
 }
-#confession {
+.agai {
   background-color: #36486b;
   border-radius: 40px;
   color: white;
