@@ -48,7 +48,7 @@ table, th, tr, td {
   font-family: Arial;
   font-size: 1.2em;
 }
-#confess {
+.confession {
   background-color: #36486b;
   border-radius: 40px;
   color: white;
