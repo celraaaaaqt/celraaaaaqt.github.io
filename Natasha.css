@@ -42,7 +42,7 @@ cite {
   text-size: 1em;
   float: left;
 }
-table, th, tr, td{
+table, th, tr, td {
   border: solid black 1px;
   background-color: #edb1f1;
   font-family: Arial;
@@ -56,7 +56,7 @@ table, th, tr, td{
   padding: 50px;
   letter-spacing: 0.1em;
 }
-.hatdog , .backend-container {
+.backend-container , .hatdog {
   Background-color: #011222;
   color: white;
   border-radius: 20px;
