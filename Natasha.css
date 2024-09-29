@@ -48,13 +48,21 @@ table, th, tr, td{
   font-family: Arial;
   font-size: 1.2em;
 }
-.hatdog , .agai , .bacend-container {
+.hatdog , .backend-container {
   Background-color: #011222;
   color: white;
   border-radius: 20px;
   padding: 10px;
   border-color: cyan;
   float: bottom;
+}
+.confess {
+  background-color: #36486b;
+  border-radius: 40px;
+  color: white;
+  margin: 30px;
+  padding: 50px;
+  letter-spacing: 0.1em;
 }
 #wala {
   color: blue;
