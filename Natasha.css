@@ -48,14 +48,6 @@ table, th, tr, td{
   font-family: Arial;
   font-size: 1.2em;
 }
-.hatdog , .backend-container {
-  Background-color: #011222;
-  color: white;
-  border-radius: 20px;
-  padding: 10px;
-  border-color: cyan;
-  float: bottom;
-}
 #confess {
   background-color: #36486b;
   border-radius: 40px;
@@ -63,6 +55,14 @@ table, th, tr, td{
   margin: 30px;
   padding: 50px;
   letter-spacing: 0.1em;
+}
+.hatdog , .backend-container {
+  Background-color: #011222;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  border-color: cyan;
+  float: bottom;
 }
 #wala {
   color: blue;
