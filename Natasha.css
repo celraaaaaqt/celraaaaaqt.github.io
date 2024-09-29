@@ -1,0 +1,91 @@
+h1 {
+  background-color: bisque;
+  font-family: Times New Roman;
+  color: Fuchsia;
+  font-size: 5em;
+  letter-spacing: 10px;
+  border-radius: 100px 100px 100px 100px;
+  padding: 50px 0 50px 0;
+  text-shadow: 0 0 10px aqua,
+              0 0 10px cyan,
+              0 0 10px fuchsia,
+              0 0 10px fuchsia;
+}
+body {
+background: #d59bf6;
+
+}
+img {
+  border-radius: 70px 70px 70px 70px;
+  position: static;
+  height: 500px;
+  width: 500px;
+}
+cite {
+  background-color: silver;
+}
+.myclass {
+  color: plum;
+  background-color: khaki;
+  border-radius: 50px;
+  text-align: middle;
+}
+.prettytasha {
+  text-align: left;
+  background-color: lemonchiffon;
+  width: 100%;
+}
+#ourfirstpicture {
+  width: 500px;
+  height: 500px;
+  border-radius: 250px;
+  text-size: 1em;
+  float: left;
+}
+table, th, tr, td{
+  border: solid black 1px;
+  background-color: #edb1f1;
+  font-family: Arial;
+  font-size: 1.2em;
+}
+.hatdog , .backend-container {
+  Background-color: #011222;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  border-color: cyan;
+  float: bottom;
+}
+.confession {
+  background-color: #36486b;
+  border-radius: 40px ;
+  color: white;
+  margin: 30px;
+  padding: 50px;
+  letter-spacing: 0.1em;
+}
+#wala {
+  color: blue;
+  background-color: #eef7ff;
+  border-radius: 120px;
+  height: 120px;
+  padding: 30px;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  font-size: 3.5em;
+}
+button {
+  height: 150px;
+  width: 200px;
+  border-radius: 20px;
+  border-color: navy;
+  background-color: whitesmoke;
+  position: relative;
+  left: 390px;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: navy;
+}
+.boogsh {
+  height: 10px;
+}
