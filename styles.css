@@ -20,14 +20,12 @@ body {
     border: 50px solid #d3d4d9;
     font-size: 1.5em;
     color: black;
- 
 }
 .login-container h2 {
   background-color: #36486b;  
   padding: 20px;
   border-radius: 30px;
-  margin-bottom: 60px;
-  
+  margin-bottom: 60px; 
 }
 h2 {
     text-align: center;
