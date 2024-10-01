@@ -1,5 +1,5 @@
-h1 {
-  background-color: bisque;
+.intro {
+  background-color: #031b28;
   font-family: Times New Roman;
   color: Fuchsia;
   font-size: 5em;
@@ -12,8 +12,9 @@ h1 {
               0 0 10px fuchsia;
 }
 body {
-background: #d59bf6;
-
+background-image: url(/imagess.jpg);
+background-repeat: no-repeat;
+background-size: cover;
 }
 img {
   border-radius: 70px 70px 70px 70px;
@@ -25,51 +26,67 @@ cite {
   background-color: silver;
 }
 .myclass {
-  color: plum;
-  background-color: khaki;
+  color: white;
+  background-color: #323b58;
   border-radius: 50px;
   text-align: middle;
+  padding: 50px;
 }
 .prettytasha {
-  text-align: left;
-  background-color: lemonchiffon;
-  width: 100%;
-}
-#ourfirstpicture {
-  width: 500px;
-  height: 500px;
-  border-radius: 250px;
-  text-size: 1em;
-  float: left;
-}
-table, th, tr, td {
-  border: solid black 1px;
-  background-color: #edb1f1;
-  font-family: Arial;
-  font-size: 1.2em;
-}
-.confession {
-  background-color: #36486b;
-  border-radius: 40px;
   color: white;
-  margin: 30px;
-  padding: 65px;
-  letter-spacing: 0.1em;
+  text-align: left;
+  padding: 10px;
+  background-color: #323b58;
+  width: 100%;
+  border-radius: 20px;
 }
-.backend-container , .hatdog {
+.crushycakes {
+  height: 400px;
+  width: 400px;
+  border-radius: 200px;
+
+}
+#hot {
+  background-color: #323b58;
+  padding: 30px;
+  border-radius: 50px;
+}
+#hot a {
+  text-decoration: none;
+  color: darkviolet;
+}
+table, th, tr, td{
+  color: white;
+  border: solid black 1px;
+  background-color: #36486b;
+  font-family: Arial;
+  font-size: 1.5em;
+  width: 500px;
+}
+.backend-container {
   Background-color: #011222;
   color: white;
   border-radius: 20px;
   padding: 10px;
   border-color: cyan;
   float: bottom;
+  font-size: 1.5em;
+}
+#confession {
+  background-color: #36486b;
+  border-radius: 40px;
+  color: white;
+  margin: 30px;
+  padding: 50px;
+  letter-spacing: 0.1em;
+  font-size: 1em;
 }
 #wala {
-  color: blue;
-  background-color: #eef7ff;
+  color: #323b58;
+  background-color: #c3dad6;
   border-radius: 120px;
-  height: 120px;
-  padding: 30px;
+  height: 140px;
+  padding: 80px;
   letter-spacing: 0.1em;
   font-weight: bold;
   font-size: 3.5em;
@@ -85,7 +102,47 @@ button {
   font-size: 1.5em;
   font-weight: bold;
   color: navy;
+  box-shadow: 10px 0 10px 0 #555;
+}
+button:hover {
+  background-color: darkgray;
+}
+button:active {
+  transform: translateY(4px);
+  box-shadow: 0 5px #666;
 }
 .boogsh {
   height: 10px;
+}
+.creator {
+  background-color: #323b58;
+  color: white;
+  font-size: 1.5em;
+  padding: 0;
+  border-radius: 50px;
+  letter-spacing: 0.1em;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px;
+}
+.creator a {
+  text-decoration: none;
+  color: red;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.creator:hover {
+ background-color: #36486b;  
+}
+.hatdog {
+  background-color: white;
+  color: #36486b;
+  padding: 15px;
+  border-radius: 20px;
+  font-size: 1em;
+  box-shadow: 10px 0 10px 0 #999;
+}
+.hatdog:hover {
+  background-color: #011222;
+  box-shadow: 10px 0 10px #666;
 }
