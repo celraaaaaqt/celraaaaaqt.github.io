@@ -69,7 +69,7 @@ button {
     color: white;
     border: none;
     border-radius: 100px;
-    cursor: pointer;
+    cursor: none;
     height: 80px;
 }
 
